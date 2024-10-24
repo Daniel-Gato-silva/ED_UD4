@@ -11,6 +11,6 @@ public class Average {
             System.out.println(n + " ");
         }
     System.out.println();
-    System.out.println("Total: " + total);  
+    System.out.println("TOTAL: " + total);  
     }
 }
